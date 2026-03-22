@@ -6,24 +6,6 @@ compute  ──► uses subnet IDs from network
              uses sg IDs from security
 
 
-.
-├── main.tf
-├── outputs.tf
-├── providers.tf
-├── variables.tf
-├── modules/
-│   ├── network/
-│   │   ├── main.tf
-│   │   ├── outputs.tf
-│   │   └── variables.tf
-│   ├── security/
-│   │   ├── main.tf
-│   │   ├── outputs.tf
-│   │   └── variables.tf
-│   └── compute/
-│       ├── main.tf
-│       ├── outputs.tf
-        └── variables.tf
 
 First Network Module
 
@@ -608,4 +590,4 @@ module.security.aws_security_group.dashboard_sg
 
 
 
-![alt text](image.png)
+![alt text](https://github.com/Zinkothu/Pov-Terraform-AWS-Dashboard-Counting-App/blob/2368e9f7802833262b32b3c60a151dfca3558ef4/pov-terraform/dashboard-counting-app-V1/Assigment2.png)
