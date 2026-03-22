@@ -700,4 +700,7 @@ copy dashboard Public ip and go to browser and test
 http://18.143.146.227:9002/
 
 
+![image alt](https://github.com/Zinkothu/Pov-Terraform-AWS-Dashboard-Counting-App/blob/17bcb5f6db7bd4a987add4369a01c40d82627bf1/Assigment_1.png)
+
+https://github.com/Zinkothu/Pov-Terraform-AWS-Dashboard-Counting-App/blob/17bcb5f6db7bd4a987add4369a01c40d82627bf1/Assigment_1.png
 
