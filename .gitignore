@@ -1,0 +1,16 @@
+# Terraform State Files
+*.tfstate
+*.tfstate.backup
+
+# Terraform Directory
+.terraform/
+.terraform.lock.hcl
+
+# SSH Private Keys
+*.pem
+
+# Terraform Variables
+terraform.tfvars
+
+# Screenshots
+*.png
