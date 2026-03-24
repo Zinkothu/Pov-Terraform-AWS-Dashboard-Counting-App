@@ -43,3 +43,13 @@ module.dashboard_sg.aws_security_group_rule.egress_with_cidr_blocks[0]
 module.dashboard_sg.aws_security_group_rule.ingress_with_cidr_blocks[0]
 module.dashboard_sg.aws_security_group_rule.ingress_with_cidr_blocks[1]
 module.dashboard_sg.aws_security_group_rule.ingress_with_cidr_blocks[2]
+
+
+
+
+
+
+
+
+
+![alt text](result.png)
